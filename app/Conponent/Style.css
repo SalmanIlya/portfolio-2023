@@ -1,0 +1,71 @@
+.navbar {
+  color: white;
+  position: absolute;
+}
+.main {
+  height: 100vh;
+}
+.image-1 {
+  height: 600px;
+  position: absolute;
+  right: 5px;
+  bottom: 0px;
+}
+.box1 {
+  width: 70%;
+  background-color: #2a2a2a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.h-text {
+  color: #f5af31;
+}
+.box2 {
+  width: 30%;
+  background-color: #f5af31;
+}
+.About {
+  background-color: #2f2f2f;
+  height: 100vh;
+}
+.Skills {
+  background-color: #2a2a2a;
+  height: 100vh;
+  color: white;
+}
+.exprience {
+  background-color: #2f2f2f;
+  height: 100vh;
+  color: white;
+}
+.projects {
+  background-color: #2f2f2f;
+  height: 100vh;
+  color: white;
+}
+.contact {
+  background-color: #2a2a2a;
+  height: 100vh;
+  color: white;
+}
+.c-main-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  /* height: 500px; */
+  /* width: 500px; */
+}
+.c-box1 {
+  background-color: #2f2f2f;
+  height: 500px;
+  width: 70%;
+}
+.c-box2 {
+  background-color: #f5af31;
+  height: 500px;
+  width: 30%;
+}
